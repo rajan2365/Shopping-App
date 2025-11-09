@@ -11,7 +11,6 @@ This project provides an elegant UI for browsing, searching, and purchasing prod
 - 🛒 Add to Cart / Remove from Cart  
 - ❤️ Wishlist Management  
 - 🔍 Product Search & Filter  
-- 👤 User Authentication (Login & Signup)  
 - 💳 Checkout & Payment Page (Frontend Mock)  
 - 📱 Fully Responsive for Mobile and Desktop  
 
