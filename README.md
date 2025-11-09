@@ -4,6 +4,9 @@ A modern and responsive **Shopping App Frontend** built with **React.js**.
 This project provides an elegant UI for browsing, searching, and purchasing products — designed for performance, scalability, and a seamless user experience.
 
 ---
+🖥️ **Live Demo:** [shopping-app-nine-pied.vercel.app](https://shopping-app-nine-pied.vercel.app)
+
+---
 
 ## 🌟 Features
 
