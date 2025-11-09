@@ -12,18 +12,7 @@ This project provides an elegant UI for browsing, searching, and purchasing prod
 - ❤️ Wishlist Management  
 - 🔍 Product Search & Filter  
 - 💳 Checkout & Payment Page (Frontend Mock)  
-- 📱 Fully Responsive for Mobile and Desktop  
-
----
-
-## 🖼️ Preview
-
-![Shopping App Preview](./preview.png)
-
-> *(Add your app screenshot as `preview.png` inside the project root or `/assets/images/` folder)*
-
----
-
+- 📱 Fully Responsive for Mobile and Desktop
 ## 🚀 Tech Stack
 
 | Technology | Description |
